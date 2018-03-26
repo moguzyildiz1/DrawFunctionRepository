@@ -7,7 +7,7 @@ package functiongraph;
 
 /**
  *
- * @author YOGA
+ * @author moguzyildiz
  */
 public interface DGUserInterface 
 {    
