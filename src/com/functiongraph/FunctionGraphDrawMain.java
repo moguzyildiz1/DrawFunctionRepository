@@ -8,7 +8,7 @@ import com.gui.DGGUI;
 
 /**
  *
- * @author YOGA
+ * @author moguzyildiz
  */
 public class FunctionGraphDrawMain {
 
@@ -35,7 +35,7 @@ public class FunctionGraphDrawMain {
 					consoleFunction();
 					break;
 				default:
-					System.out.println("Error: False Selection.");
+					System.out.println("Error: Unvalid Selection.");
 					done = true;
 					break;
 				}//end of switch block
