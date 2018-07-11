@@ -1,0 +1,10 @@
+sin(x), -3.0, +3.0, blue
+x, -3.0, +3.0, green
+log(x), 0, 3.0, yellow
+cos(x), -3, 3 , red
+x^(1/2), 0, 3, pink
+x^2, -3, 3, gray
+tan(x), -3, 3, black
+cot(x), -3, 3, orange
+tan(x), -8, 8, blue
+log(x), -9, 10, black
